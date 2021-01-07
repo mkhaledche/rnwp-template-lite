@@ -24,7 +24,7 @@ This project is highly concerned to ease the user customize the app for his webs
 * Showing the app in dark or light mode based on user or device preferences
 * Adjusting the text direction whether LTR or RTL
 
-## Want more features?
+## Want more features? Check out the  PRO Template
 
 If you liked how the template works and want to expand the functionality of your app, you can check out the Pro Template. Through the Pro template, you can:
 
@@ -42,5 +42,8 @@ There are two ways:
 1. Enrol in Udemy course [Convert Your WordPress Website into a React Native App](https://www.udemy.com/course/convert-wordpress-website-to-react-native-mobile-app/?referralCode=D5805E307957E9C1416A)
 2. Download the [RNWP template from Codester](https://www.codester.com/items/26420/rnwp-react-native-template-for-wordpress-sites?ref=mkhaledche)
 
-#### Further Read
+### Sample App
+You can download [Boostrand Sample App on Play Store](https://play.google.com/store/apps/details?id=com.bootstrand.rnwp).
+
+### Further Read
 For more information, you can always check out [Boostrand](https://boostrand.com/) or watch [the videos explaining each step in detail](https://www.youtube.com/watch?v=SELBp8TYC50&list=PLpS4pOdpME0-DoW_whO0-YPXzUYSOfvxn).
