@@ -1,0 +1,32 @@
+{
+	"expo": {
+		"name": "RNWP Free",
+		"slug": "rnwp-free",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"userInterfaceStyle": "automatic",
+		"scheme": "rnwp",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "com.rnwp.ios",
+			"buildNumber": "1.0.0"
+		},
+		"android": {
+			"package": "com.rnwp.android"
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		},
+		"description": ""
+	}
+}
